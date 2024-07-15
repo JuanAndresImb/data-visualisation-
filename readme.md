@@ -26,12 +26,6 @@ Data Visualisation Challenge est un projet où l'on ajoute des visualisations de
 Juan GitHub: [JuanAndresImb](https://github.com/JuanAndresImb)  
 Juan, passionné par les nouvelles technologies et s'intéresse particulièrement aux technologies digitales décentralisées.
 
-Loïc GitHub: [GigiTheGiraffe](https://github.com/GigiTheGiraffe)  
-Loïc, jeune développeur en train d’apprendre les technologies du Web chez BeCode.
-
-Karl GitHub: [KarVand](https://github.com/KarVand)  
-Intéressé et intrigué par toutes les possibilités, je me suis laissé happé !
-
 ## Quand
 
 - **Durée** : 5 jours
@@ -55,4 +49,3 @@ Amélioration de nos compétences en :
 - Utilisation de bibliothèques tierces
 - Manipulation du DOM
 - Débogage
-- Séparation des préoccupations
